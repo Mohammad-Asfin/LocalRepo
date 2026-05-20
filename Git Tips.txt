@@ -1,0 +1,9 @@
+mkdir LocalRepo
+mk means make
+dir means directory
+If we combine means make a directory
+And "LocakRepo" folder name
+
+git push -u origin main
+Note:- We are pushing in main instead of wring whole "git push -u origin main" instead we can write "git push".
+
